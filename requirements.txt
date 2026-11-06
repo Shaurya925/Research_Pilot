@@ -1,0 +1,17 @@
+pymupdf
+dotenv
+langchain-text-splitters 
+langchain-core
+langchain_docling
+docling-slim[format-pdf-docling]
+torchvision
+torch
+langchain_community
+pypdf
+sentence-transformers 
+langchain-huggingface
+faiss-cpu
+langchain_groq
+rank_bm25 
+langchain-classic
+streamlit

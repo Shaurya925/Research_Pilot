@@ -104,7 +104,7 @@ ResearchPilot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ResearchPilot.git
+git clone https://github.com/Shaurya925/ResearchPilot.git
 
 cd ResearchPilot
 ```
